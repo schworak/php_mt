@@ -1,0 +1,13 @@
+*.swp
+*.swo
+*.bak
+.vscode/
+.idea/
+*.log
+.env
+.env.*
+/dist
+/build
+/target
+/vendor
+/node_modules
