@@ -12,6 +12,6 @@ keywords = ["php", "mt19937", "random", "rng", "compatibility"]
 categories = ["algorithms"]
 
 authors = ["Glenn Schworak"]
-rust-version = "1.75"
+rust-version = "1.93"
 
 [dependencies]
