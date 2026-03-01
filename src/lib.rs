@@ -23,6 +23,8 @@
 //!
 //! Not cryptographically secure.
 
+#![forbid(unsafe_code)]
+
 mod tests;
 
 use std::time::{SystemTime, UNIX_EPOCH};

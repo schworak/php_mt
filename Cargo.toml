@@ -3,4 +3,15 @@ name = "php_mt"
 version = "0.1.0"
 edition = "2024"
 
+description = "Bit-for-bit compatible implementation of PHP 7.1+ MT19937 (mt_rand)"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/schworak/php_mt"
+readme = "README.md"
+
+keywords = ["php", "mt19937", "random", "rng", "compatibility"]
+categories = ["algorithms"]
+
+authors = ["Glenn Schworak"]
+rust-version = "1.75"
+
 [dependencies]
