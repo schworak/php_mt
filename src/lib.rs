@@ -79,7 +79,6 @@ impl PhpMt {
     /// assert_ne!(rng.mt_rand(), 0);
     /// rng.seed(1234);
     /// assert_ne!(rng.mt_rand(), 0);
-
     /// ```
     pub fn seed(&mut self, seed: u32) {
         self.state[0] = seed;
